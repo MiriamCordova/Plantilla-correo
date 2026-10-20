@@ -3,6 +3,8 @@ body {
     margin: 100px;
     font-family: Arial, sans-serif;
     background-color: #F6F7F9;
+    width: 745px;
+    height: auto;
 }
 
 .logo {
